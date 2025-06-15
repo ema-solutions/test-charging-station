@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="46144340-bddf-4770-80da-72216eb628cb" name="Changes" comment="Update Dockerfile and enhance project configuration&#10;&#10;Revised the Dockerfile to force initialize submodules recursively, ensuring consistency. Updated IntelliJ IDEA configuration files to improve project metadata tracking and management. Minor adjustments included to streamline development workflows.">
+      <change beforePath="$PROJECT_DIR$/src/evse.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/evse.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2pnwcXFkb63DqusO4HhlxBTiqTn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/develop/Documents/MicroOcppSimulator",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-WS-251.25410.117" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46144340-bddf-4770-80da-72216eb628cb" name="Changes" comment="" />
+      <created>1733415227220</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733415227220</updated>
+      <workItem from="1733415228327" duration="5412000" />
+      <workItem from="1733423135390" duration="631000" />
+      <workItem from="1733681008047" duration="1302000" />
+      <workItem from="1733761349018" duration="2474000" />
+      <workItem from="1734422762242" duration="6739000" />
+      <workItem from="1734445459940" duration="2628000" />
+      <workItem from="1734448899558" duration="5717000" />
+      <workItem from="1734861702782" duration="1357000" />
+      <workItem from="1734863147966" duration="4043000" />
+      <workItem from="1735045520605" duration="1564000" />
+      <workItem from="1735219585174" duration="28000" />
+      <workItem from="1739264950932" duration="1647000" />
+      <workItem from="1739512746460" duration="232000" />
+      <workItem from="1739710458100" duration="806000" />
+      <workItem from="1741791762209" duration="1585000" />
+      <workItem from="1742205275485" duration="2094000" />
+      <workItem from="1742217424888" duration="1323000" />
+      <workItem from="1742219681482" duration="636000" />
+      <workItem from="1742227005407" duration="1790000" />
+      <workItem from="1742815948078" duration="6394000" />
+      <workItem from="1743351037566" duration="22000" />
+      <workItem from="1743351079578" duration="1325000" />
+      <workItem from="1744024529122" duration="1409000" />
+      <workItem from="1744868928700" duration="1320000" />
+      <workItem from="1744872301074" duration="774000" />
+      <workItem from="1747826310739" duration="290000" />
+      <workItem from="1747826621883" duration="472000" />
+    </task>
+    <task id="LOCAL-00001" summary="Update Dockerfile, EVSE logic, and IDE configuration files&#10;&#10;Revised Dockerfile to initialize submodules recursively for completeness. Simplified EVSE charging condition by removing redundant check. Added and updated IntelliJ IDEA configuration files to enhance project metadata tracking.">
+      <option name="closed" value="true" />
+      <created>1742816655330</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742816655330</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update Dockerfile and enhance project configuration&#10;&#10;Revised the Dockerfile to force initialize submodules recursively, ensuring consistency. Updated IntelliJ IDEA configuration files to improve project metadata tracking and management. Minor adjustments included to streamline development workflows.">
+      <option name="closed" value="true" />
+      <created>1742816725178</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742816725178</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update Dockerfile, EVSE logic, and IDE configuration files&#10;&#10;Revised Dockerfile to initialize submodules recursively for completeness. Simplified EVSE charging condition by removing redundant check. Added and updated IntelliJ IDEA configuration files to enhance project metadata tracking." />
+    <MESSAGE value="Update Dockerfile and enhance project configuration&#10;&#10;Revised the Dockerfile to force initialize submodules recursively, ensuring consistency. Updated IntelliJ IDEA configuration files to improve project metadata tracking and management. Minor adjustments included to streamline development workflows." />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Dockerfile and enhance project configuration&#10;&#10;Revised the Dockerfile to force initialize submodules recursively, ensuring consistency. Updated IntelliJ IDEA configuration files to improve project metadata tracking and management. Minor adjustments included to streamline development workflows." />
+  </component>
+</project>
