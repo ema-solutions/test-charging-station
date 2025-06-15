@@ -130,7 +130,7 @@ void app_loop() {
 #if MO_NETLIB == MO_NETLIB_MONGOOSE
 
 #ifndef MO_SIM_ENDPOINT_URL
-#define MO_SIM_ENDPOINT_URL "http://ec2-13-60-24-112.eu-north-1.compute.amazonaws.com:8000" //URL to forward to mg_http_listen(). Will be ignored if the URL field exists in api.jsn
+#define MO_SIM_ENDPOINT_URL "http://0.0.0.0:8000" //URL to forward to mg_http_listen(). Will be ignored if the URL field exists in api.jsn
 #endif
 
 int main() {
