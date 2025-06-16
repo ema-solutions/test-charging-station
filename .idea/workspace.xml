@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46144340-bddf-4770-80da-72216eb628cb" name="Changes" comment="Update workspace.xml and modify default simulation endpoint URL">
+    <list default="true" id="46144340-bddf-4770-80da-72216eb628cb" name="Changes" comment="Modify default simulation endpoint URL and update workspace.xml adjustments">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +86,7 @@
       <workItem from="1744872301074" duration="774000" />
       <workItem from="1747826310739" duration="290000" />
       <workItem from="1747826621883" duration="472000" />
-      <workItem from="1749991253938" duration="5265000" />
+      <workItem from="1749991253938" duration="11252000" />
     </task>
     <task id="LOCAL-00001" summary="Update Dockerfile, EVSE logic, and IDE configuration files&#10;&#10;Revised Dockerfile to initialize submodules recursively for completeness. Simplified EVSE charging condition by removing redundant check. Added and updated IntelliJ IDEA configuration files to enhance project metadata tracking.">
       <option name="closed" value="true" />
@@ -112,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749996030836</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Modify default simulation endpoint URL and update workspace.xml adjustments">
+      <option name="closed" value="true" />
+      <created>1749997030287</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1749997030287</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +130,8 @@
     <MESSAGE value="Update Dockerfile, EVSE logic, and IDE configuration files&#10;&#10;Revised Dockerfile to initialize submodules recursively for completeness. Simplified EVSE charging condition by removing redundant check. Added and updated IntelliJ IDEA configuration files to enhance project metadata tracking." />
     <MESSAGE value="Update Dockerfile and enhance project configuration&#10;&#10;Revised the Dockerfile to force initialize submodules recursively, ensuring consistency. Updated IntelliJ IDEA configuration files to improve project metadata tracking and management. Minor adjustments included to streamline development workflows." />
     <MESSAGE value="Update workspace.xml and modify default simulation endpoint URL" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update workspace.xml and modify default simulation endpoint URL" />
+    <MESSAGE value="Update workspace.xml and change MO_SIM_ENDPOINT_URL to localhost" />
+    <MESSAGE value="Modify default simulation endpoint URL and update workspace.xml adjustments" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modify default simulation endpoint URL and update workspace.xml adjustments" />
   </component>
 </project>
